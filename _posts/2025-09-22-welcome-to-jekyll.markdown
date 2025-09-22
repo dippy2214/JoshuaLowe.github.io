@@ -13,6 +13,7 @@ Welcome to my portfolio guide! Here is where I document all my projects and work
 - [University Projects](https://github.com/dippy2214/Portfolio-Guide/blob/main/README.md#-university-projects)
 
 ## ✨ Highlights
+
 | Project | Completion Date | Tools | Project description |
 | :-----: | :-------------: | :---: | :-----------------: |
 | [Software Rasteriser](https://github.com/dippy2214/Rasteriser) | June 2025 | C++, Windows API | This project is a software rasteriser with no dependancies outside the standard library, made in C++ as a windows 32 app. The program features a model and image loader to handle objects and textures (.obj and .bmp respectively), simple lighting, and a complete rasteriser to draw to the screen. |
@@ -21,6 +22,7 @@ Welcome to my portfolio guide! Here is where I document all my projects and work
 | [FNAF Bros Brawl](https://github.com/dippy2214/FNAF-Bros-Brawl) | June 2024 | C++, Custom Engine | This project was made with a small team for the PS5, and is a platform fighter game. My main work on this project was on the camera and audio system, both of which I designed myself. I also helped with various bug fixing and menu implementation. |
 
 ## 🙋‍♂️ Personal Projects
+
 | Project | Completion Date | Tools | Project description |
 | :-----: | :-------------: | :---: | :-----------------: |
 | [Software Rasteriser](https://github.com/dippy2214/Rasteriser) | June 2025 | C++, Windows API | This project is a software rasteriser with no dependancies outside the standard library, made in C++ as a windows 32 app. The program features a model and image loader to handle objects and textures (.obj and .bmp respectively), simple lighting, and a complete rasteriser to draw to the screen. |
@@ -31,6 +33,7 @@ Welcome to my portfolio guide! Here is where I document all my projects and work
 | [Xbox Controller Emulator](https://github.com/dippy2214/Xbox-Controller-Mouse-and-Keyboard-Emulator) | June 2024 | C++, XInput | This project is similar to the wiimote project, working at a higher level, connecting to an xbox controller and using it to emulate keyboard and mouse inputs by making use of Microsoft's XInput API. |
 
 ## 👨‍🏫 University Projects
+
 | Project | Completion Date | Tools | Project description |
 | :-----: | :-------------: | :---: | :-----------------: |
 | [Checkers AI](https://github.com/dippy2214/Checkers-AI) | November 2024 | C#, Unity | This project was a checkers AI made by implementing a monte-carlo search tree, with some additional optimisations to improve performance in the end games. I found the development process very interesting, and it taught me a lot about the value of decoupling data from the UI. |
