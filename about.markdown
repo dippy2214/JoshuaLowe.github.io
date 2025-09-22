@@ -3,16 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+# About me
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Joshua Lowe, a software developer and student at Abertay University. I enjoy solving new and novel problems with code and am always open to explore new areas or problem spaces. Making games was my gateway into programming, and I have always enjoyed the visual representation of my work that the medium creates.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Outside of university and my own programming work/ tinkering I enjoy climbing as a social outlet and a way to keep fit and healthy, chess or catan as a fun board game option to flex my competitive side and lego to spark my creativity.
