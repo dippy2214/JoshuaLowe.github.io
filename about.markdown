@@ -2,8 +2,8 @@
 layout: about
 title: About
 permalink: /about/
+accent_image: ../Portfolio-Background.jpg
 ---
-# About me
 
 My name is Joshua Lowe, a software developer and student at Abertay University. I enjoy solving new and novel problems with code and am always open to explore new areas or problem spaces. Making games was my gateway into programming, and I have always enjoyed the visual representation of my work that the medium creates.
 
