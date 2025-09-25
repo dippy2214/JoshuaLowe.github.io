@@ -9,9 +9,14 @@ accent_image: ../Portfolio-Background.jpg
 <style>
 .container {
 display: flex;
-align-items: center; /* Vertically aligns items */
-gap: 15px; /* Adds spacing between image and text */
-padding-bottom: 10px
+align-items: center;
+}
+.container img {
+max-width: 100%;
+height: auto;
+}
+.container .text {
+margin-right: 20px;
 }
 .image-grid {
   display: grid;
@@ -29,10 +34,10 @@ padding-bottom: 10px
 </head>
 
 <div class="container">
-    <p>
+    <div class="text">
       My name is Joshua Lowe, a software developer and student at Abertay University. I enjoy solving new and novel problems with code and am always open to exploring new areas or problem spaces. Making games was my gateway into programming, starting by making chess in my computer science class in high school, and I really enjoy the visual representation of my work that the medium creates.
-    </p>
-    <img src="../JoshLowe.jpg" alt="Picture of me!" width="150" height="300" >
+    </div>
+    <img src="../JoshLowe.jpg" alt="Picture of me!" width="150" height="300">
 </div>
 
 <p>
