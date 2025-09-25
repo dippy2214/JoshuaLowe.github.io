@@ -37,6 +37,8 @@ author:
   linkedin: https://www.linkedin.com/in/joshua-lowe-479ab0314/
 
 menu:
+  - title: Portfolio
+    url: /
   - title: About me
     url:   /about/
 

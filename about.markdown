@@ -2,22 +2,22 @@
 layout: about
 title: About
 permalink: /about/
-#accent_image: ../Portfolio-Background.jpg
+accent_image: ../Portfolio-Background.jpg
 ---
 
 <head>
 <style>
 .container {
-display: flex;
-align-items: center;
-margin-bottom: 20px;
+ display: flex;
+ align-items: center;
+ margin-bottom: 20px;
 }
 .container img {
-max-width: 100%;
-height: auto;
+ max-width: 100%;
+ height: auto;
 }
 .container .text {
-margin-right: 20px;
+ margin-right: 20px;
 }
 .image-grid {
   display: grid;
@@ -35,10 +35,10 @@ margin-right: 20px;
 </head>
 
 <div class="container">
-    <div class="text">
-      My name is Joshua Lowe, a software developer and student at Abertay University. I enjoy solving new and novel problems with code and am always open to exploring new areas or problem spaces. Making games was my gateway into programming, starting by making chess in my computer science class in high school, and I really enjoy the visual representation of my work that the medium creates.
-    </div>
-    <img src="../JoshLowe.jpg" alt="Picture of me!" width="150" height="300">
+  <div class="text">
+    My name is Joshua Lowe, a software developer and student at Abertay University. I enjoy solving new and novel problems with code and am always open to exploring new areas or problem spaces. Making games was my gateway into programming, starting by making chess in my computer science class in high school, and I really enjoy the visual representation of my work that the medium creates.
+  </div>
+  <img src="../JoshLowe.jpg" alt="Picture of me!" width="150" height="300">
 </div>
 
 <p>
