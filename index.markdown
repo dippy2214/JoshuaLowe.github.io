@@ -4,7 +4,7 @@
 title: My Portfolio
 permalink: /index.html
 layout: page
-
+cover: true
 ---
 
 Welcome to my portfolio guide! Here is where I document all my projects and work (The emojis aren't AI I just like how they look).
