@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /about/
-accent_image: ../Portfolio-Background.jpg
+#accent_image: ../Portfolio-Background.jpg
 ---
 
 <head>
