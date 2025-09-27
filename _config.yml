@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Joshua Lowe's Portfolio
+title: Joshua Lowe's Website
 description: >- # this means to ignore newlines until "baseurl:"
   Hello there! Welcome to my website. This has been made using ruby through jekyll to
   support my portfolio and show off some of my projects. Enjoy having a look around!
@@ -38,15 +38,16 @@ author:
 
 menu:
   - title: Portfolio
-    url: /
+    url: /portfolio/
   - title: About me
     url:   /about/
 
 # Build settings
 theme: jekyll-theme-hydejack
-accent_image: Portfolio-Background.jpg
+accent_image: images/Portfolio-Background.jpg
 
-
+paginate: 10
+paginate_path: /portfolio/:num/
 
 plugins:
   - jekyll-feed
