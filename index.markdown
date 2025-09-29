@@ -7,4 +7,4 @@ layout: page
 cover: true
 ---
 
-Welcome to my website! to view my portfolio see [portfolio](/portfolio/)
+Welcome to my website! to view my portfolio see [portfolio](portfolio/)
