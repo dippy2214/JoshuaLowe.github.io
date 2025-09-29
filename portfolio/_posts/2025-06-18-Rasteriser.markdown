@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: C++ Rasteriser
 layout: page
+accent_image: ../../../../images/Portfolio-Background.jpg
 ---
 
 For this project, I aimed to make a working software rasteriser from scratch. Inspired by a video by Sebastian Lague, I wanted to test my own abilities by trying to make this in C++ with the windows API. This project had a few major roadblocks to success, including accidentally drawing 3-point shapes as rectangles and even trying to make my own shader pipeline once I was done, and I learned a lot from this lower level C++ project.
