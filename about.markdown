@@ -38,7 +38,7 @@ accent_image: ../images/Portfolio-Background.jpg
   <div class="text">
     My name is Joshua Lowe, a software developer and student at Abertay University. I enjoy solving new and novel problems with code and am always open to exploring new areas or problem spaces. Making games was my gateway into programming, starting by making chess in my computer science class in high school, and I really enjoy the visual representation of my work that the medium creates.
   </div>
-  <img src="../images/JoshLowe.jpg" alt="Picture of me!" width="150" height="300">
+  <img src="../images/Personal/JoshLowe.jpg" alt="Picture of me!" width="150" height="300">
 </div>
 
 <p>
@@ -49,7 +49,7 @@ accent_image: ../images/Portfolio-Background.jpg
  Outside of university and my own programming work/ tinkering I currently enjoy climbing as a social outlet and sport of choice, chess or catan as a fun board game option to flex my competitive side and building lego to spark my creativity.
 </p>
 <div class="image-grid">
-  <img src="../images/climbingpicture1.jpg" alt="out climbing in a sea cave">
-  <img src="../images/legopicture1.jpg" alt="finishing touches on the lego viking village">
-  <img src="../images/groupclimbingpicture.jpg" alt="a nice group shot of the gang out climbing">
+  <img src="../images/Personal/climbingpicture1.jpg" alt="out climbing in a sea cave">
+  <img src="../images/Personal/legopicture1.jpg" alt="finishing touches on the lego viking village">
+  <img src="../images/Personal/groupclimbingpicture.jpg" alt="a nice group shot of the gang out climbing">
 </div>

@@ -37,11 +37,11 @@ For this project, I aimed to make a working software rasteriser from scratch. In
 
 <div class="image-container">
   <div class="image-box">
-    <img src="../../../../images/evilMonkeyTextured.png" alt="monkey model rendered with texture!" width="300" height="120">
+    <img src="../../../../images/Rasteriser/evilMonkeyTextured.png" alt="monkey model rendered with texture!" width="300" height="120">
     <p>rendering monkey with texture</p>
   </div>
   <div class="image-box">
-    <img src="../../../../images/lightingMonkey.png" alt="monkey model rendered with lighting!" width="300" height="120">
+    <img src="../../../../images//RasteriserlightingMonkey.png" alt="monkey model rendered with lighting!" width="300" height="120">
     <p>rendering monkey model with lighting from unique camera perspective</p>
   </div>
 </div>
@@ -57,11 +57,11 @@ The problem I mentioned in the Intro, rendering triangles as rectangles, turned 
 
 <div class="image-container">
   <div class="image-box">
-    <img src="../../../../images/softwarerasteriser1.jpg" alt="monkey model rendered with square bug!" width="300" height="120">
+    <img src="../../../../images/Rasteriser/softwarerasteriser1.jpg" alt="monkey model rendered with square bug!" width="300" height="120">
     <p>rendering monkey model with square bug</p>
   </div>
   <div class="image-box">
-    <img src="../../../../images/softwarerasteriser2.jpg" alt="monkey model rendered properly!" width="300" height="120">
+    <img src="../../../../images/Raseriser/softwarerasteriser2.jpg" alt="monkey model rendered properly!" width="300" height="120">
     <p>rendering monkey correctly</p>
   </div>
 </div>
@@ -71,5 +71,5 @@ In short the issue was that I made an algorithm to render the triangles in a mod
 The understanding I gained through this work of rendering to the screen, and the fundamental maths behind it, expanded a lot on my knowledge from working with cameras in a games context. I am very happy I went through with this project and had a lot of fun working through it, even if I was following along with a video more than much of my other personal work. Diving into the shader pipeline on my own at the end made me really appreciate the incredible expertise and problem solving that must have been required to create something like DirectX, and I consider this project to have been a great success and fantastic learning experience.
 
 <div class="image-container">
-  <img src="../../../../images/cubeAnim3.gif" alt="cube animation gif" width="400" height="200">
+  <img src="../../../../images/Rasteriser/cubeAnim3.gif" alt="cube animation gif" width="400" height="200">
 </div>
