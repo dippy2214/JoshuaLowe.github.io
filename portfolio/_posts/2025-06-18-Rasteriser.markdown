@@ -41,7 +41,7 @@ For this project, I aimed to make a working software rasteriser from scratch. In
     <p>rendering monkey with texture</p>
   </div>
   <div class="image-box">
-    <img src="../../../../images//RasteriserlightingMonkey.png" alt="monkey model rendered with lighting!" width="300" height="120">
+    <img src="../../../../images//Rasteriser/lightingMonkey.png" alt="monkey model rendered with lighting!" width="300" height="120">
     <p>rendering monkey model with lighting from unique camera perspective</p>
   </div>
 </div>
@@ -61,7 +61,7 @@ The problem I mentioned in the Intro, rendering triangles as rectangles, turned 
     <p>rendering monkey model with square bug</p>
   </div>
   <div class="image-box">
-    <img src="../../../../images/Raseriser/softwarerasteriser2.jpg" alt="monkey model rendered properly!" width="300" height="120">
+    <img src="../../../../images/Rasteriser/softwarerasteriser2.jpg" alt="monkey model rendered properly!" width="300" height="120">
     <p>rendering monkey correctly</p>
   </div>
 </div>
