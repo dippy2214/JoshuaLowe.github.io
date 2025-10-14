@@ -8,6 +8,7 @@ cover: true
 ---
 
 My name is Joshua Lowe, a current games programming student at Abertay University. I enjoy working in any area that is new to me and presents interesting problems to solve, with lower level software  being my current area of interest. To view my portfolio [click here](portfolio/).
+
 ### My Skillsets
 
 I have experience with a variety of tools and skillsets, including:
@@ -23,6 +24,6 @@ I have experience with a variety of tools and skillsets, including:
 
 [Click here](https://github.com/dippy2214) to see projects on my github.
 
-I have worked in teams of 2-8 for projects with a variety of scales, from 6 months of full development with artists and designers to weekend game jams with just 2 programmers. Playing to the skillsets of each team member and making sure everyone gets something out of each project is always a fun challenge. 
+I have worked in teams of 2-8 on projects of a wide range of scales, from 6 months of full development with artists and designers to weekend game jams with just 2 programmers. Playing to the skillsets of each team member and making sure everyone gets something out of each project is always a fun challenge.
 
 Outside of my work I have built customer service skills and experience with international time zone and cultural differences through my time working as a rocket league coach, both freelancing and with the team 'Evolve Riot' in the esports scene. For information about my hobbies and interests, see [about me](about/).
